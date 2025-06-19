@@ -2,28 +2,34 @@ using System;
 
 namespace RegistroEstudiante
 {
-    // Clase que representa un estudiante
-    public class Estudiante
+    // Definición de la clase Estudiante
+    class Estudiante
     {
-        // Propiedades del estudiante
         public int Id { get; set; }
         public string Nombres { get; set; }
         public string Apellidos { get; set; }
         public string Direccion { get; set; }
-        public string[] Telefonos { get; set; } // Array para manejar múltiples teléfonos
+        public string[] Telefonos { get; set; } = new string[3]; // Array para 3 teléfonos
 
-        // Constructor para inicializar el estudiante con sus datos
+        // Constructor para inicializar el estudiante
         public Estudiante(int id, string nombres, string apellidos, string direccion, string[] telefonos)
         {
             Id = id;
             Nombres = nombres;
             Apellidos = apellidos;
             Direccion = direccion;
-            Telefonos = telefonos;
+            if (telefonos.Length == 3)
+            {
+                Telefonos = telefonos;
+            }
+            else
+            {
+                throw new ArgumentException("Debe proporcionar exactamente 3 teléfonos.");
+            }
         }
 
         // Método para mostrar la información del estudiante
-        public void MostrarInformacion()
+        public void MostrarInfo()
         {
             Console.WriteLine($"ID: {Id}");
             Console.WriteLine($"Nombres: {Nombres}");
@@ -41,23 +47,16 @@ namespace RegistroEstudiante
     {
         static void Main(string[] args)
         {
-            // Definimos un array con tres teléfonos
-            string[] telefonosEstudiante = new string[3] { "555-1234", "555-5678", "555-9012" };
+            // Crear un array con los teléfonos
+            string[] telefonos = { "555-1234", "555-5678", "555-9012" };
 
-            // Creamos un objeto Estudiante con datos de ejemplo
-            Estudiante estudiante = new Estudiante(
-                id: 1,
-                nombres: "Juan",
-                apellidos: "Pérez López",
-                direccion: "Calle Falsa 123, Ciudad de México",
-                telefonos: telefonosEstudiante
-            );
+            // Crear un objeto Estudiante
+            Estudiante estudiante = new Estudiante(1, "Juan", "Pérez", "Calle Falsa 123", telefonos);
 
-            // Mostramos la información del estudiante en consola
-            estudiante.MostrarInformacion();
+            // Mostrar la información del estudiante
+            estudiante.MostrarInfo();
 
-            // Pausa para ver resultados
-            Console.WriteLine("\nPresione cualquier tecla para salir...");
+            Console.WriteLine("Presione cualquier tecla para salir...");
             Console.ReadKey();
         }
     }
