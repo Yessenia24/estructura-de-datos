@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Estructura-de-Datos\Semana 12\bin\Debug\net9.0\Semana 12.exe
+C:\Users\User\Documents\Estructura-de-Datos\Semana 12\bin\Debug\net9.0\Semana 12.deps.json
+C:\Users\User\Documents\Estructura-de-Datos\Semana 12\bin\Debug\net9.0\Semana 12.runtimeconfig.json
+C:\Users\User\Documents\Estructura-de-Datos\Semana 12\bin\Debug\net9.0\Semana 12.dll
+C:\Users\User\Documents\Estructura-de-Datos\Semana 12\bin\Debug\net9.0\Semana 12.pdb
+C:\Users\User\Documents\Estructura-de-Datos\Semana 12\obj\Debug\net9.0\Semana 12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Estructura-de-Datos\Semana 12\obj\Debug\net9.0\Semana 12.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Estructura-de-Datos\Semana 12\obj\Debug\net9.0\Semana 12.AssemblyInfo.cs
+C:\Users\User\Documents\Estructura-de-Datos\Semana 12\obj\Debug\net9.0\Semana 12.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Estructura-de-Datos\Semana 12\obj\Debug\net9.0\Semana 12.sourcelink.json
+C:\Users\User\Documents\Estructura-de-Datos\Semana 12\obj\Debug\net9.0\Semana 12.dll
+C:\Users\User\Documents\Estructura-de-Datos\Semana 12\obj\Debug\net9.0\refint\Semana 12.dll
+C:\Users\User\Documents\Estructura-de-Datos\Semana 12\obj\Debug\net9.0\Semana 12.pdb
+C:\Users\User\Documents\Estructura-de-Datos\Semana 12\obj\Debug\net9.0\Semana 12.genruntimeconfig.cache
+C:\Users\User\Documents\Estructura-de-Datos\Semana 12\obj\Debug\net9.0\ref\Semana 12.dll
