@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="665106c3-fa6e-4528-ba6b-373c32de646b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 10/bin/Debug/net9.0/Semana 10.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Semana 10/bin/Debug/net9.0/Semana 10.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 10/bin/Debug/net9.0/Semana 10.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Semana 10/bin/Debug/net9.0/Semana 10.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 10/bin/Debug/net9.0/Semana 10.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Semana 10/bin/Debug/net9.0/Semana 10.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 10/obj/Debug/net9.0/Semana 10.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Semana 10/obj/Debug/net9.0/Semana 10.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 10/obj/Debug/net9.0/Semana 10.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Semana 10/obj/Debug/net9.0/Semana 10.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 10/obj/Debug/net9.0/Semana 10.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Semana 10/obj/Debug/net9.0/Semana 10.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 10/obj/Debug/net9.0/Semana 10.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Semana 10/obj/Debug/net9.0/Semana 10.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 10/obj/Debug/net9.0/Semana 10.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/Semana 10/obj/Debug/net9.0/Semana 10.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 10/obj/Debug/net9.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Semana 10/obj/Debug/net9.0/apphost.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 10/obj/Debug/net9.0/ref/Semana 10.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Semana 10/obj/Debug/net9.0/ref/Semana 10.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 10/obj/Debug/net9.0/refint/Semana 10.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Semana 10/obj/Debug/net9.0/refint/Semana 10.dll" afterDir="false" />
-    </list>
+    <list default="true" id="665106c3-fa6e-4528-ba6b-373c32de646b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,19 +35,19 @@
     <option name="openDirectoriesWithSingleClick" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Archivos de programa",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Archivos de programa&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -83,6 +70,7 @@
       <workItem from="1759365881042" duration="313000" />
       <workItem from="1759366231646" duration="1046000" />
       <workItem from="1759367556329" duration="66000" />
+      <workItem from="1759404072995" duration="38000" />
     </task>
     <servers />
   </component>
